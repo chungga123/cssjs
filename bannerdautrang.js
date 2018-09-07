@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://giahungreal.com.vn' target='_blank'><img src='https://1.bp.blogspot.com/-lnclzji_Xwk/W5IxrK6te_I/AAAAAAAAAI8/a3Bc9ZeTHwE7a5exwmwrO4HiKlQTTy9TACLcBGAs/s640/297b8c4b2b05cb5b9214.jpg' width='500px'/><br/>Bán dự án AN PHÚ 1 BÌNH DƯƠNG </a>. liên hệ : 0906003539 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giahungreal.com.vn' target='_blank'><img src='https://1.bp.blogspot.com/-lnclzji_Xwk/W5IxrK6te_I/AAAAAAAAAI8/a3Bc9ZeTHwE7a5exwmwrO4HiKlQTTy9TACLcBGAs/s640/297b8c4b2b05cb5b9214.jpg' width='500px'/><br/>Bán dự án AN PHÚ 1 BÌNH DƯƠNG </a>. liên hệ : 0906003539 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
